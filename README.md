@@ -1,15 +1,8 @@
 # graphql-simple
 
-## Install
-
-```
-npm i
-```
-
 ## Usage
 
-```
-npm start
-```
+Clone this repo and `npm start`
 
-Very simple and clear graphQL implementation
+Very simple and clear graphQL implementation example
+
